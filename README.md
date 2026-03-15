@@ -8,6 +8,7 @@ With this app you can access to them from an easy to remember password!
 Every time you enter a simple password the app will convert all the characters in it into a more safe password using encryption keys randomly generated on the first time you open the app.
 
 ## ¿How to install it?
+### REQUIRES JDK 17
 1. Download the [latest version](https://github.com/Guzman-Dev/Password-Generator/releases/latest)
 2. Unzip the file
 3. Execute either the JAR or EXE file
